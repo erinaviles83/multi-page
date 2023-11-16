@@ -8,14 +8,19 @@ p {
   text-align: center;
   font-size: large;
 }
-a {
-  text-align: center;
-}
+
 img {
   width: 60%;
   height: auto;
   border-radius: 20px;
   display: block;
-  margin: 25px auto; 
-
+  margin: 25px auto;
+}
+footer {
+  display: block;
+  text-align: center;
+  padding: 40px auto;
+}
+footer a {
+  margin: 0 20px;
 }
